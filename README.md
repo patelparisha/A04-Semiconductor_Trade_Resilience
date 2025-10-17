@@ -1,11 +1,11 @@
 # A04-Semiconductor_Trade_Resilience
 
 Collaborators: 
-Bruce Liu, 
+Bruce Liu - bjl422@bu.edu, 
 Parisha Patel - pparisha@bu.edu, 
-Mika Ismayilli, 
-Kush Vyas, 
-Liyang Peng
+Mika Ismayilli - mikaism@bu.edu, 
+Kush Vyas - kushvyas@bu.edu, 
+Liyang Peng - liypeng@bu.edu
 
 <img width="781" height="403" alt="image" src="https://github.com/user-attachments/assets/4400aee3-01dc-4286-936d-e085202c2e4a" />
 <img width="835" height="411" alt="image" src="https://github.com/user-attachments/assets/205f65dc-e4bc-497f-8154-7ec035df0f66" />
