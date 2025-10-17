@@ -1,0 +1,140 @@
+input_name,input_id,goes_into_name,goes_into_id,is_type_of_name,is_type_of_id
+Crystal growing furnaces,N8,Wafer,N26,nan,nan
+Crystal machining tools,N9,Wafer,N26,nan,nan
+EUV lithography tools,N20,nan,nan,Lithography tools,N19
+ArF dry (DUV) lithography tools,N21,nan,nan,Lithography tools,N19
+ArF immersion (DUV) lithography tools,N22,nan,nan,Lithography tools,N19
+Lithography tools,N19,Photolithography,N25,nan,nan
+Ion implantation,N16,Chemical mechanical planarization,N57,nan,nan
+Etch and clean,N46,Ion implantation,N16,nan,nan
+Maskless lithography tools,N28,nan,nan,Lithography tools,N19
+Mask exposure systems - e-beam,N29,nan,nan,Maskless lithography tools,N28
+Mask exposure systems - laser beam,N30,nan,nan,Maskless lithography tools,N28
+Photomasks,N33,Photolithography,N25,nan,nan
+Photoresists,N31,Photolithography,N25,nan,nan
+Resist processing tools,N32,Photolithography,N25,nan,nan
+Deposition tools,N36,Deposition,N35,nan,nan
+Plasma CVD tools,N38,nan,nan,Chemical vapor deposition tools,N47
+Low-pressure CVD tools,N39,nan,nan,Chemical vapor deposition tools,N47
+High-temperature CVD tools,N40,nan,nan,Chemical vapor deposition tools,N47
+Atomic layer deposition tools,N41,nan,nan,Deposition tools,N36
+Physical vapor deposition tools,N42,nan,nan,Deposition tools,N36
+Rapid thermal processing tools,N43,nan,nan,Deposition tools,N36
+Tube-based diffusion and deposition tools,N44,nan,nan,Deposition tools,N36
+Electrochemical plating tools,N45,nan,nan,Deposition tools,N36
+Chip design,N0,Deposition,N35,nan,nan
+Deposition,N35,Photolithography,N25,nan,nan
+Photolithography,N25,Etch and clean,N46,nan,nan
+Chemical vapor deposition tools,N47,nan,nan,Deposition tools,N36
+Dry etching and cleaning tools,N48,Etch and clean tools,N55,nan,nan
+Wet etching and cleaning tools,N49,Etch and clean tools,N55,nan,nan
+Conductor etching tools,N50,nan,nan,Dry etch tools,N103
+Insulator etching tools,N51,nan,nan,Dry etch tools,N103
+CMP tools,N86,Chemical mechanical planarization,N57,nan,nan
+Wafer handlers,N11,nan,nan,Wafer and photomask handlers,N59
+Photomask handlers,N12,nan,nan,Wafer and photomask handlers,N59
+Wafer bonding and aligning tools,N10,nan,nan,Fabrication tools (for advanced packaging),N109
+Process control and handling,N118,Photolithography,N25,nan,nan
+Process control and handling,N118,Etch and clean,N46,nan,nan
+Process control and handling,N118,Chemical mechanical planarization,N57,nan,nan
+Process control and handling,N118,Ion implantation,N16,nan,nan
+Process control and handling,N118,Deposition,N35,nan,nan
+Wafer inspection tools,N61,nan,nan,Process control tools,N60
+Photomask inspection and repair tools,N62,nan,nan,Process control tools,N60
+Inspection tools (adv. pkg.),N63,nan,nan,Fabrication tools (for advanced packaging),N109
+Process monitoring tools,N64,nan,nan,Process control tools,N60
+"Film, stack, and shape metrology tools",N65,nan,nan,Wafer inspection tools,N61
+Critical dimensions metrology tools,N66,nan,nan,Wafer inspection tools,N61
+Defect inspection tools,N67,nan,nan,Wafer inspection tools,N61
+Chemical mechanical planarization,N57,Assembly and packaging,N69,nan,nan
+Assembly inspection tools,N70,nan,nan,Assembly tools,N119
+Dicing tools,N71,nan,nan,Assembly tools,N119
+Bonding tools,N72,nan,nan,Assembly tools,N119
+Die attaching tools,N73,nan,nan,Bonding tools,N72
+Wire bonding tools,N74,nan,nan,Bonding tools,N72
+Other interconnect tools,N75,nan,nan,Bonding tools,N72
+Packaging tools,N76,Assembly and packaging,N69,nan,nan
+Integrated assembly tools,N77,nan,nan,Assembly tools,N119
+Assembly and packaging,N69,Testing,N78,nan,nan
+SoC test tools,N80,nan,nan,Test tools,N120
+Burn-in test tools,N81,nan,nan,Test tools,N120
+Linear and discrete testing tools,N82,nan,nan,Test tools,N120
+Handlers and probers,N83,Testing,N78,nan,nan
+Core intellectual property,N85,EDA and Core IP,N7,nan,nan
+Electronic design automation software,N84,EDA and Core IP,N7,nan,nan
+CMP materials,N90,Chemical mechanical planarization,N57,nan,nan
+Deposition materials,N88,Deposition,N35,nan,nan
+Fabrication materials,N117,Photolithography,N25,nan,nan
+Fabrication materials,N117,Etch and clean,N46,nan,nan
+Fabrication materials,N117,Chemical mechanical planarization,N57,nan,nan
+Fabrication materials,N117,Ion implantation,N16,nan,nan
+Fabrication materials,N117,Deposition,N35,nan,nan
+Lead frames,N93,nan,nan,Packaging materials,N100
+Bond wires,N94,nan,nan,Packaging materials,N100
+Ceramic packages,N95,nan,nan,Packaging materials,N100
+Substrates,N96,nan,nan,Packaging materials,N100
+Encapsulation resins,N97,nan,nan,Packaging materials,N100
+Die attach materials,N98,nan,nan,Packaging materials,N100
+Testing,N78,Finished logic chip,N99,nan,nan
+Advanced CPUs,N1,nan,nan,Logic chip design,N6
+Discrete GPUs,N2,nan,nan,Logic chip design,N6
+FPGAs,N3,nan,nan,Logic chip design,N6
+AI ASICs,N4,nan,nan,Logic chip design,N6
+Imprint lithography,N107,nan,nan,Lithography tools,N19
+KrF (DUV) lithography tools,N105,nan,nan,Lithography tools,N19
+i-line lithography tools,N106,nan,nan,Lithography tools,N19
+Direct write systems,N108,nan,nan,Maskless lithography tools,N28
+Plasma modification tools,N104,nan,nan,Deposition tools,N36
+Dry etch tools,N103,nan,nan,Dry etching and cleaning tools,N48
+Dry clean tools,N102,nan,nan,Dry etching and cleaning tools,N48
+Misc. dry etch tools,N54,nan,nan,Dry etch tools,N103
+Ion milling tools,N52,nan,nan,Dry etching and cleaning tools,N48
+Dry stripping tools,N53,nan,nan,Dry etching and cleaning tools,N48
+Overlay metrology tools,N114,nan,nan,Wafer inspection tools,N61
+E-beam metrology tools,N115,nan,nan,Wafer inspection tools,N61
+Defect review stations,N116,nan,nan,Wafer inspection tools,N61
+Memory test tools,N79,nan,nan,Test tools,N120
+Fabrication tools (for advanced packaging),N109,Assembly and packaging,N69,nan,nan
+Dry etching tools (adv. pkg.),N101,nan,nan,Etch and clean tools (adv. pkg.),N129
+CVD tools (adv. pkg.),N110,nan,nan,Deposition tools (adv. pkg.),N128
+PVD tools (adv. pkg.),N111,nan,nan,Deposition tools (adv. pkg.),N128
+Spin-on deposition tools (adv. pkg.),N112,nan,nan,Deposition tools (adv. pkg.),N128
+ECP tools (adv. pkg.),N113,nan,nan,Deposition tools (adv. pkg.),N128
+Memory chip design,N5,Chip design,N0,nan,nan
+DAO chip design,N13,Chip design,N0,nan,nan
+Logic chip design,N6,Chip design,N0,nan,nan
+EDA and Core IP,N7,Chip design,N0,nan,nan
+Wafer,N26,Fabrication materials,N117,nan,nan
+Wafer and photomask handlers,N59,Process control and handling,N118,nan,nan
+Process control tools,N60,Process control and handling,N118,nan,nan
+Electronic gases,N91,Fabrication materials,N117,nan,nan
+Wet chemicals,N92,Fabrication materials,N117,nan,nan
+Assembly tools,N119,Assembly and packaging,N69,nan,nan
+Test tools,N120,Testing,N78,nan,nan
+Ion implanters,N17,Ion implantation,N16,nan,nan
+Resist processing tools (adv. pkg.),N122,nan,nan,Lithography tools (adv. pkg.),N127
+Mask aligners,N123,nan,nan,Lithography tools,N19
+CMP tools (adv. pkg.),N124,nan,nan,Fabrication tools (for advanced packaging),N109
+Single wafer spin & spray systems (adv. pkg.),N125,nan,nan,Etch and clean tools (adv. pkg.),N129
+ATP materials,N121,Assembly and packaging,N69,nan,nan
+ATP materials,N121,Testing,N78,nan,nan
+Electronic gases,N91,ATP materials,N121,nan,nan
+Packaging materials,N100,ATP materials,N121,nan,nan
+Process-specific fabrication materials,N126,Fabrication materials,N117,nan,nan
+CMP materials,N90,nan,nan,Process-specific fabrication materials,N126
+Deposition materials,N88,nan,nan,Process-specific fabrication materials,N126
+Photomasks,N33,nan,nan,Process-specific fabrication materials,N126
+Photoresists,N31,nan,nan,Process-specific fabrication materials,N126
+Etch and clean tools,N55,Etch and clean,N46,nan,nan
+Lithography tools (adv. pkg.),N127,nan,nan,Fabrication tools (for advanced packaging),N109
+Deposition tools (adv. pkg.),N128,nan,nan,Fabrication tools (for advanced packaging),N109
+Etch and clean tools (adv. pkg.),N129,nan,nan,Fabrication tools (for advanced packaging),N109
+Direct write systems (adv. pkg.),N130,nan,nan,Lithography tools (adv. pkg.),N127
+Die attaching tools for IC,N131,nan,nan,Die attaching tools,N73
+Die attaching tools for non-IC,N132,nan,nan,Die attaching tools,N73
+Manual wire bonders,N133,nan,nan,Wire bonding tools,N74
+Auto ball bonders for IC,N134,nan,nan,Wire bonding tools,N74
+Auto ball bonders for non-IC,N135,nan,nan,Wire bonding tools,N74
+Automatic wedge bonders,N136,nan,nan,Wire bonding tools,N74
+Wafer level stud bonders,N137,nan,nan,Wire bonding tools,N74
+Other deposition tools (non-IC),N138,nan,nan,Deposition tools,N36
