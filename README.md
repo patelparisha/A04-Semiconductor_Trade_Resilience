@@ -7,7 +7,7 @@ The analysis highlights the high geographic concentration of key semiconductor c
 
 We further applied scenario-based reasoning to understand the implications of disruptions—such as export controls, regional conflicts, or supply-side shocks—on trade balances and network stability. The project concludes by outlining strategic pathways countries and firms can pursue to enhance semiconductor supply-chain resilience, including diversification, capacity building, and strategic trade partnerships.
 
-##Collaborators: 
+## Collaborators: 
 Bruce Liu - bjl422@bu.edu, 
 Parisha Patel - pparisha@bu.edu, 
 Mika Ismayilli - mikaism@bu.edu, 
