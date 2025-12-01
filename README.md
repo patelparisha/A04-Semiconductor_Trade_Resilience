@@ -9,7 +9,7 @@ We further applied scenario-based reasoning to understand the implications of di
 
 ## Presentation
 ## 📄 Presentation
-[Click here to view the presentation (PDF)](./[your-presentation](https://github.com/patelparisha/A04-Semiconductor_Trade_Resilience/blob/166f5aa380377ab1bef02c3d6037ea1cae3c94f3/Global%20Semiconductor%20Supply%20Chains_Trade%20Flows%2C%20Risks%20%26%20Resilience.pdf)
+[Click here to view the presentation (PDF)](./https://github.com/patelparisha/A04-Semiconductor_Trade_Resilience/blob/166f5aa380377ab1bef02c3d6037ea1cae3c94f3/Global%20Semiconductor%20Supply%20Chains_Trade%20Flows%2C%20Risks%20%26%20Resilience.pdf)
 
 ## Collaborators: 
 Bruce Liu - bjl422@bu.edu, 
